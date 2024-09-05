@@ -1,0 +1,9 @@
+com\karthick\Movieapp\Movieservice.class
+com\karthick\Movieapp\ReviewService.class
+com\karthick\Movieapp\Movie.class
+com\karthick\Movieapp\ReviewController.class
+com\karthick\Movieapp\MovieappApplication.class
+com\karthick\Movieapp\ReviewRepository.class
+com\karthick\Movieapp\Review.class
+com\karthick\Movieapp\Movierepository.class
+com\karthick\Movieapp\MovieController.class
